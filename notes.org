@@ -110,3 +110,7 @@ A group has a cyclic subgroup being itself.
 
 Every cyclic group is abelian.
 
+**** Order
+
+The smallest positive integer such that a^n = e. n = |a|. If a does not exist,
+we write |a| = infinity.
